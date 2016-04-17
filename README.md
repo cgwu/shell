@@ -1,1 +1,3 @@
-# shell
+ shell
+Linux shell exercies.
+
